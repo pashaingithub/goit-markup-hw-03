@@ -92,9 +92,10 @@ body {
   line-height: calc(31 / 26);
   color: var(--blue-color);
 }
+.logo-link{
+  margin-right: 93px;}
 
 .logo-part-header {
-  margin-right: 93px;
   color: #000000;
 }
 
@@ -150,6 +151,7 @@ body {
 .main-title {
   margin-top: 0;
   margin-bottom: 0;
+  width: 696;
 
   font-weight: 900;
   font-size: 44px;
@@ -286,8 +288,7 @@ body {
 }
 
 .portfolio-btn-list {
-  margin-bottom: 34px;
-  padding-bottom: 16px;
+  margin-bottom: 50px;
   display: flex;
   justify-content: center;
 }
